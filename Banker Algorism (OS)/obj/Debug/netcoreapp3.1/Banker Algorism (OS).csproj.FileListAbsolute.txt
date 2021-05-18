@@ -1,0 +1,13 @@
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).exe
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).deps.json
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).runtimeconfig.json
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).runtimeconfig.dev.json
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).dll
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\bin\Debug\netcoreapp3.1\Banker Algorism (OS).pdb
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).csprojAssemblyReference.cache
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).AssemblyInfoInputs.cache
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).AssemblyInfo.cs
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).dll
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).pdb
+C:\Users\mosta\OneDrive\Desktop\Banker Algorism (OS)\Banker Algorism (OS)\obj\Debug\netcoreapp3.1\Banker Algorism (OS).genruntimeconfig.cache
